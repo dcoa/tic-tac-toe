@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 
-This is a game for mobile devices created with react native and expo. To test it download Expo app on your device and scan the [QR code](https://expo.dev/@dcoa/Tic-Tac-Toe).
+This is a game for mobile devices created with react native and expo. To test it download Expo app on your device and scan the [QR code](https://expo.dev/%40dcoa/Tic-Tac-Toe?serviceType=eas&distribution=expo-go&scheme=exp%2BTic-Tac-Toe&channel=master&sdkVersion=47.0.0).
 
 <img src="./tictactoe.png">
 
